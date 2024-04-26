@@ -1,0 +1,39 @@
+.container {
+    padding: 0 15%;
+}
+
+.hero-bg-color {
+    background-color: #1F2937;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header-logo-text {
+    font-size: 24px;
+    color: #F9FAF8
+}
+
+
+.button-bg {
+    background-color: #3882f6;
+}
+
+.info-header-text {
+ font-size: 36px;
+ font-weight: bolder;
+ color: #1F2937;
+}
+
+.quote-bg-color {
+    background-color: #e5e7eb;
+}
+
